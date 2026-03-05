@@ -1,0 +1,5 @@
+{
+  "name": "Dubins Path Blobs",
+  "description": "A creative drawing tool that uses Dubins Path theory (Circular-Straight-Circular transitions) to create smooth organic shapes by connecting grid points with tangents and arcs. Users can toggle node rotation to control convexity and concavity.",
+  "requestFramePermissions": []
+}
